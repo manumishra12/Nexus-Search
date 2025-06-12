@@ -8,13 +8,7 @@
   
   <br>
 
-  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mode.png" alt="NEXUS SEARCH Light Mode" width="900" height="500" style="border: 2px solid #ccc; border-radius: 10px;">
-
-  <h2 style="margin-top: 40px;">Video Demonstration</h2>
-  <video width="320" height="240" controls style="border: 2px solid #ccc; border-radius: 10px;">
-    <source src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/nexus%20_search.mp4?raw=true" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mdoe.png" alt="NEXUS SEARCH Light Mode" width="900" height="500" style="border: 2px solid #ccc; border-radius: 10px;">
 
   <p style="margin-top: 10px;">You can also download the video directly <a href="https://github.com/manumishra12/Nexus-Search/blob/main/assets/nexus%20_search.mp4?raw=true">here</a>.</p>
 
