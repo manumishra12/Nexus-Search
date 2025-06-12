@@ -3,8 +3,10 @@
 
 <div align="center">
 
-  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mdoe.png" alt="NEXUS SEARCH" width="900" height="500">
+  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/dark%20mode.png" alt="NEXUS SEARCH" width="900" height="500">
+  
   <br>
+  
   <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mdoe.png" alt="NEXUS SEARCH" width="900" height="500">
 
   <h2>Video Demonstration</h2>
