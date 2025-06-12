@@ -20,9 +20,9 @@
 
   <br>
 
-  <h2 style="margin-top: 40px;">Download PDF</h2>
+  <h2 style="margin-top: 40px;">Generated PDF</h2>
   <a href="https://github.com/manumishra12/Nexus-Search/blob/main/assets/Research_Report__Give_me_the_link_of_E_Commerce_project_using_MERN_stack.pdf" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/PDF_icon.svg" alt="PDF Icon" width="30" height="40" style="vertical-align: middle; margin-right: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/PDF_icon.svg" alt="PDF Icon" width="20" height="30" style="vertical-align: middle; margin-right: 8px;">
     <span style="font-size: 18px; font-weight: bold;">Download Documentation</span>
   </a>
   
