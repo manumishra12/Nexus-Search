@@ -1,18 +1,9 @@
-# 🚀 NEXUS SEARCH - Agentic Search Engine
+# Nexus Search 
+```Agentic Search Engine```
 
 <div align="center">
 
-![NEXUS AI Logo](https://via.placeholder.com/200x100/4F46E5/FFFFFF?text=NEXUS+AI)
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-Latest-purple.svg)](https://langchain.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-**Next-Generation AI Search Engine with Multi-Agent Architecture**
-
-[Features](#features) • [Quick Start](#quick-start) • [Documentation](#documentation) • [API Reference](#api-reference) • [Contributing](#contributing)
+<img src="https://your-repo-link/path/to/your-logo.gif" alt="NEXUS SEARCH Logo" width="200" height="100">
 
 </div>
 
@@ -35,12 +26,11 @@
 - [Document Generation](#document-generation)
 - [Development](#development)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🎯 Overview
 
-NEXUS AI is a cutting-edge, ultra-premium agentic search engine that combines the power of **LangChain**, **LangGraph**, and **Tavily** to deliver unparalleled search experiences. Built with a sophisticated 13-agent architecture, it provides intelligent content analysis, multi-modal processing, and professional document generation.
+NEXUS SEARCH is a cutting-edge, ultra-premium agentic search engine that combines the power of **LangChain**, **LangGraph**, and **Tavily** to deliver unparalleled search experiences. Built with a sophisticated 13-agent architecture, it provides intelligent content analysis, multi-modal processing, and professional document generation.
 
 ### 🌟 What Makes NEXUS AI Unique?
 
@@ -933,12 +923,6 @@ node --version  # Should be 16+
 - Verify file format support
 - Ensure upload directory permissions
 
-### Getting Help
-
-- 📧 Email: support@nexus-ai.com
-- 💬 Discord: [Join our server](https://discord.gg/nexus-ai)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/nexus-ai/issues)
-- 📖 Docs: [Full Documentation](https://docs.nexus-ai.com)
 
 ## 🙏 Acknowledgments
 
@@ -948,43 +932,3 @@ node --version  # Should be 16+
 - [FastAPI](https://fastapi.tiangolo.com/) - Modern web framework
 - [React](https://reactjs.org/) - Frontend library
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 NEXUS AI Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-<div align="center">
-
-**Built with ❤️ by the NEXUS AI Team**
-
-[Website](https://nexus-ai.com) • [Documentation](https://docs.nexus-ai.com) • [Support](mailto:support@nexus-ai.com)
-
-⭐ **Star this repo if you find it helpful!** ⭐
-
-</div>
