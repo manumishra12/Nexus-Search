@@ -7,7 +7,7 @@
   <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/dark%20mode.png" alt="NEXUS SEARCH Dark Mode" width="900" height="500" style="border: 2px solid #ccc; border-radius: 10px;">
   
   <br>
-  
+
   <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mode.png" alt="NEXUS SEARCH Light Mode" width="900" height="500" style="border: 2px solid #ccc; border-radius: 10px;">
 
   <h2 style="margin-top: 40px;">Video Demonstration</h2>
