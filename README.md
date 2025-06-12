@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="https://your-repo-link/path/to/your-logo.gif" alt="NEXUS SEARCH Logo" width="200" height="100">
+  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mdoe.png" alt="NEXUS SEARCH" width="200" height="100">
 
   <h2>Video Demonstration</h2>
   <video width="320" height="240" controls>
