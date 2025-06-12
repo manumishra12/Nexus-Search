@@ -7,22 +7,21 @@
   <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/dark%20mode.png" alt="NEXUS SEARCH Dark Mode" width="900" height="500" style="border: 2px solid #ccc; border-radius: 10px;">
   
   <br>
-
+  
   <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mdoe.png" alt="NEXUS SEARCH Light Mode" width="900" height="500" style="border: 2px solid #ccc; border-radius: 10px;">
-
+ 
+  <br>
+  
   <p style="margin-top: 10px;">You can also download the video directly <a href="https://github.com/manumishra12/Nexus-Search/blob/main/assets/nexus%20_search.mp4?raw=true">here</a>.</p>
 
   <br>
 
-  <h2 style="margin-top: 40px;">Generated PDF</h2>
   <a href="https://github.com/manumishra12/Nexus-Search/blob/main/assets/Research_Report__Give_me_the_link_of_E_Commerce_project_using_MERN_stack.pdf" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/PDF_icon.svg" alt="PDF Icon" width="20" height="30" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 18px; font-weight: bold;">Download Documentation</span>
+    <span style="font-size: 18px; font-weight: bold;">Download Generated Pdf</span>
   </a>
   
   <br><br>
-  
-  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/pdf.png" alt="NEXUS SEARCH PDF" width="900" height="500" style="border: 2px solid #ccc; border-radius: 10px;">
 
 </div>
 
