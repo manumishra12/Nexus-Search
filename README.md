@@ -20,7 +20,8 @@
   <br>
 
   <h2>Download PDF</h2>
-  <a href="https://github.com/manumishra12/Nexus-Search/blob/main/assets/documentation.pdf?raw=true" target="_blank">
+  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mode.png" alt="NEXUS SEARCH" width="900" height="500">
+  <a href="https://github.com/manumishra12/Nexus-Search/blob/main/assets/Research_Report__Give_me_the_link_of_E_Commerce_project_using_MERN_stack.pdf" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/PDF_icon.svg" alt="PDF Icon" width="30" height="40"> Download Documentation
   </a>
 
