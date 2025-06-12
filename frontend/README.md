@@ -3,9 +3,7 @@
 
 <div align="center">
 
-![NEXUS SEARCH Logo](https://via.placeholder.com/200x100/4F46E5/FFFFFF?text=NEXUS+AI)
-
-
+<img src="https://your-repo-link/path/to/your-logo.gif" alt="NEXUS SEARCH Logo" width="200" height="100">
 
 </div>
 
