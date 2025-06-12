@@ -1,18 +1,11 @@
-# 🚀 NEXUS AI - Ultra Premium Agentic Search Engine
+# Nexus Search 
+```Agentic Search Engine```
 
 <div align="center">
 
-![NEXUS AI Logo](https://via.placeholder.com/200x100/4F46E5/FFFFFF?text=NEXUS+AI)
+![NEXUS SEARCH Logo](https://via.placeholder.com/200x100/4F46E5/FFFFFF?text=NEXUS+AI)
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-Latest-purple.svg)](https://langchain.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Next-Generation AI Search Engine with Multi-Agent Architecture**
-
-[Features](#features) • [Quick Start](#quick-start) • [Documentation](#documentation) • [API Reference](#api-reference) • [Contributing](#contributing)
 
 </div>
 
@@ -35,12 +28,11 @@
 - [Document Generation](#document-generation)
 - [Development](#development)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🎯 Overview
 
-NEXUS AI is a cutting-edge, ultra-premium agentic search engine that combines the power of **LangChain**, **LangGraph**, and **Tavily** to deliver unparalleled search experiences. Built with a sophisticated 13-agent architecture, it provides intelligent content analysis, multi-modal processing, and professional document generation.
+NEXUS SEARCH is a cutting-edge, ultra-premium agentic search engine that combines the power of **LangChain**, **LangGraph**, and **Tavily** to deliver unparalleled search experiences. Built with a sophisticated 13-agent architecture, it provides intelligent content analysis, multi-modal processing, and professional document generation.
 
 ### 🌟 What Makes NEXUS AI Unique?
 
@@ -933,12 +925,6 @@ node --version  # Should be 16+
 - Verify file format support
 - Ensure upload directory permissions
 
-### Getting Help
-
-- 📧 Email: support@nexus-ai.com
-- 💬 Discord: [Join our server](https://discord.gg/nexus-ai)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/nexus-ai/issues)
-- 📖 Docs: [Full Documentation](https://docs.nexus-ai.com)
 
 ## 🙏 Acknowledgments
 
