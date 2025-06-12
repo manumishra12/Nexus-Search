@@ -3,7 +3,9 @@
 
 <div align="center">
 
-  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mdoe.png" alt="NEXUS SEARCH" width="200" height="100">
+  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mdoe.png" alt="NEXUS SEARCH" width="900" height="500">
+  <br>
+  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mdoe.png" alt="NEXUS SEARCH" width="900" height="500">
 
   <h2>Video Demonstration</h2>
   <video width="320" height="240" controls>
