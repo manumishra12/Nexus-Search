@@ -7,7 +7,7 @@
   
   <br>
   
-  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mdoe.png" alt="NEXUS SEARCH" width="900" height="500">
+  <img src="https://github.com/manumishra12/Nexus-Search/blob/main/assets/light%20mode.png" alt="NEXUS SEARCH" width="900" height="500">
 
   <h2>Video Demonstration</h2>
   <video width="320" height="240" controls>
@@ -16,6 +16,13 @@
   </video>
 
   <p>You can also download the video directly <a href="https://github.com/manumishra12/Nexus-Search/blob/main/assets/nexus%20_search.mp4?raw=true">here</a>.</p>
+
+  <br>
+
+  <h2>Download PDF</h2>
+  <a href="https://github.com/manumishra12/Nexus-Search/blob/main/assets/documentation.pdf?raw=true" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/PDF_icon.svg" alt="PDF Icon" width="30" height="40"> Download Documentation
+  </a>
 
 </div>
 
